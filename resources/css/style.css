@@ -1,0 +1,41 @@
+body {
+	font-family: Helvetica, Arial;	
+}
+
+h1 {
+	color: khaki;
+	font-size: 100px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.very-important {
+	color: blue;
+	font-weight: bold;
+}
+
+.brushes {
+	background-color: mediumspringgreen;
+	background-size: auto;
+	color: white;
+	font-size: 32px;
+	font-weight: bold;
+
+}
+
+.frames {
+	background-color: lightcoral;
+	background-size: auto;
+	color: white;
+	font-size: 32px;
+	font-weight: bold;
+
+}
+
+.paint{
+	background-color: skyblue;
+	background-size: auto;
+	color: white;
+	font-size: 32px;
+	font-weight: bold;
+}
